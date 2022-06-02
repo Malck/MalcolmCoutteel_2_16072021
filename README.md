@@ -1,4 +1,4 @@
-## Projet 2 : Reservia , site de réservation d'hôtels 
+## Openclassrooms Project 2 
 
 Transform a mock-up website into website 
 
