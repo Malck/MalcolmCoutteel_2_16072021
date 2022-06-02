@@ -1,3 +1,5 @@
 MalcolmCoutteel_2_16072021
 
-Pages github pour le projet 2 site reservia
+Projet 2 : Reservia , site de réservation d'hôtels 
+
+
